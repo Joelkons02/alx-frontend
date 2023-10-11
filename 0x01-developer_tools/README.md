@@ -3,7 +3,6 @@
 ![Chrome](https://img.shields.io/badge/Chrome-v79-green.svg)
 ![QA](https://img.shields.io/badge/Manual%20QA-required-yellow.svg)
 
-<img src="https://img.icons8.com/color/48/000000/devtools.png"/>
 
 ## Resources
 
@@ -39,25 +38,25 @@ The developer tools in Chrome can be opened by:
 - Going to View > Developer > Developer Tools
 - Using the keyboard shortcut Cmd+Opt+I (Mac) or Ctrl+Shift+I (Windows, Linux).
 
-![Opening DevTools](images/open-dev-tools.png)
+![Opening DevTools]()
 
 ### Elements Tab
 
 The elements tab allows you to inspect and edit the HTML and CSS. Styles can be toggled on/off.
 
-![Editing HTML](images/edit-html.png)
+![Editing HTML]()
 
 ### Auditing with Lighthouse
 
 The Lighthouse tool provides audits for performance, accessibility, best practices.
 
-![Lighthouse Audits](images/lighthouse.png)
+![Lighthouse Audits]()
 
 ### Simulating Mobile Devices
 
 Device mode allows you to simulate mobile devices and test responsive design.
 
-![Device Mode](images/device-mode.png) 
+![Device Mode]() 
 
 ### Sources & Network Tab
 
