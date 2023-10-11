@@ -38,30 +38,30 @@ The developer tools in Chrome can be opened by:
 - Going to View > Developer > Developer Tools
 - Using the keyboard shortcut Cmd+Opt+I (Mac) or Ctrl+Shift+I (Windows, Linux).
 
-![Opening DevTools]()
+Opening DevTools
 
 ### Elements Tab
 
 The elements tab allows you to inspect and edit the HTML and CSS. Styles can be toggled on/off.
 
-![Editing HTML]()
+Editing HTML
 
 ### Auditing with Lighthouse
 
 The Lighthouse tool provides audits for performance, accessibility, best practices.
 
-![Lighthouse Audits]()
+Lighthouse Audits
 
 ### Simulating Mobile Devices
 
 Device mode allows you to simulate mobile devices and test responsive design.
 
-![Device Mode] 
+Device Mode
 
 ### Sources & Network Tab
 
 The sources tab provides files and server info. The network tab shows requests.
 
-![Sources & Network]
+Sources & Network
 
 ### TODO: Add more sections and screenshots
