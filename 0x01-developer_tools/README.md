@@ -56,12 +56,12 @@ The Lighthouse tool provides audits for performance, accessibility, best practic
 
 Device mode allows you to simulate mobile devices and test responsive design.
 
-![Device Mode]() 
+![Device Mode] 
 
 ### Sources & Network Tab
 
 The sources tab provides files and server info. The network tab shows requests.
 
-![Sources & Network](images/sources-network.png)
+![Sources & Network]
 
 ### TODO: Add more sections and screenshots
